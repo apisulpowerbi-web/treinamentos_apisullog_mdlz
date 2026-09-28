@@ -45,7 +45,7 @@ const trainings = [
     label: "SMP",
     description: "Entenda o processo de validação e os critérios utilizados na SMP.",
     image: "assets/SMP_Valida__o12374867192702133.png",
-    video: "https://raw.githubusercontent.com/apisulpowerbi-web/videosApisul/main/SMP%20de%20Valida%C3%A7%C3%A3o%20.mp4",
+    video: "https://github.com/apisulpowerbi-web/videosApisul/raw/refs/heads/main/SMP%20de%20Valida%C3%A7%C3%A3o.mp4",
     github: "https://github.com/apisulpowerbi-web/videosApisul/blob/main/SMP%20de%20Valida%C3%A7%C3%A3o%20.mp4",
     duration: "Aula"
   },
